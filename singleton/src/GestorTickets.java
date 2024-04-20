@@ -33,6 +33,7 @@ public class GestorTickets {
 
     public void asignarTicket(Ticket ticket) {
         // Me falta implementar
+        //Acá relacionariamos el id del ticket con el consultor
     }
 
 

@@ -35,6 +35,10 @@ public class App {
             System.out.println("El ticket no ha sido asignado.");
         }
 
+        System.out.println("\nGracias por utilizar el sistema de tickets: ¿podría evaluar al consultor del 1 al 10?");
+        String respuesta2 = scanner.nextLine();
+        System.out.println("\nGracias por utilizar el sistema de tickets. ¡Hasta luego!");
+
         scanner.close();
     }
 }

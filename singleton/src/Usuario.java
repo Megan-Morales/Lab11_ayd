@@ -15,8 +15,6 @@ public class Usuario {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-
-    // Constructor, getters y setters
     
 }
 
